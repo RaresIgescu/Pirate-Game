@@ -76,7 +76,7 @@ This project was developed by a team of 3 students using a clean and efficient G
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/lost-island.git
+   git clone https://github.com/RaresIgescu/Pirate-Game
    cd lost-island
    ```
 
